@@ -1,4 +1,4 @@
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/gist/Fabrimat/1af57a21bfb1993409d6e68c4dd81b6f/raw/c30db02fd3f60975c2ec98e84208df421be86f7d/github-metrics.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Fabrimat/1af57a21bfb1993409d6e68c4dd81b6f/raw/a6747ad9580143d1fde678499c49990698442aae/github-metrics.svg">](#)
 ### Hi there 👋
 
 I'm Fabrizio and I create things to try to make people's life easier 🏳️‍🌈
