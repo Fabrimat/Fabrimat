@@ -3,7 +3,7 @@
 
 I'm Fabrizio and I create things to try to make people's life easier 🏳️‍🌈
 
-- 🔭 I’m currently working on stuff on [Minecraft ITALIA](https://www.minecraft-italia.it/) and [various other projects](https://fabrimat.k129.eu/work/)
+- 🔭 I’m currently working on stuff on [MineAlpha](https://www.minealpha.it/) and [various other projects](https://fabrimat.k129.eu/work/)
 - 🌱 I’m learning Minecraft: Bedrock Edition development
 - 📚 I’m studiyng IT at the University and IT Security as a self-taught
 - 💻 Preferred language: Java ☕
