@@ -1,6 +1,6 @@
 # Hi there, I'm Fabrizio La Rosa 👋
 
-**Edu Lead Developer @ Shapescape** | Digital Marketing Student | Tech Enthusiast
+**Edu Lead Developer @ Shapescape** | Computer Science & Digital Marketing | Tech Enthusiast
 
 I'm a developer and digital marketer passionate about creating impactful educational experiences and building solutions that make a difference. I blend technical expertise with marketing strategy to deliver innovative projects.
 
@@ -8,7 +8,8 @@ I'm a developer and digital marketer passionate about creating impactful educati
 
 ## 🎓 Education & Work
 
-- 📚 Studying **Digital Marketing** at [Rome Business School](https://romebusinessschool.com/)
+- 🎓 Bachelor's Degree in **Computer Science** from [Università Pegaso](https://www.unipegaso.it/)
+- 🎓 Master's Degree in **Digital Marketing** from [Rome Business School](https://romebusinessschool.com/)
 - 💼 **Edu Lead Developer** at [Shapescape](https://shapescape.com/) - Leading all educational projects
 - 🌱 Constantly learning and exploring new technologies in cybersecurity and digital marketing
 
@@ -17,6 +18,8 @@ I'm a developer and digital marketer passionate about creating impactful educati
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat-square&logo=hackaday&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/-Minecraft_Dev-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 
 ## 🎯 Interests & Passions
