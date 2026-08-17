@@ -2,7 +2,7 @@
 
 **Edu Lead Developer @ Shapescape** | Computer Science & Digital Marketing | Tech Enthusiast
 
-I'm a developer and digital marketer passionate about creating impactful educational experiences and building solutions that make a difference. I blend technical expertise with marketing strategy to deliver innovative projects.
+I'm a product manager and digital marketer passionate about creating impactful educational experiences and building solutions that make a difference. I blend technical expertise with marketing strategy to deliver innovative projects.
 
 ---
 
