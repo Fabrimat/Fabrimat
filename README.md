@@ -10,7 +10,7 @@ I'm a developer and digital marketer passionate about creating impactful educati
 
 - 🎓 Bachelor's Degree in **Computer Science** from [Università Pegaso](https://www.unipegaso.it/)
 - 🎓 Master's Degree in **Digital Marketing** from [Rome Business School](https://romebusinessschool.com/)
-- 💼 **Edu Lead Developer** at [Shapescape](https://shapescape.com/) - Leading all educational projects
+- 💼 **Edu Development Lead** at [Shapescape](https://shapescape.com/) - Leading all educational projects
 - 🌱 Constantly learning and exploring new technologies in cybersecurity and digital marketing
 
 ## 💻 Tech Stack
