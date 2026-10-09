@@ -8,10 +8,10 @@ I've been building and running production software since 2014: Java services for
 
 ## 🤖 What I'm building
 
+- 📚 [**UnStudy**](https://github.com/Fabrimat/UnStudy) - turns study PDFs into fact-checked summaries: LLM draft, a second LLM verification pass, then deterministic checks that every quote exists verbatim in the source · NestJS, Python, Postgres · live in private beta
 - 🔌 **MCP tooling for the SDLC** - an MCP gateway that connects LLM agents to our tools and build pipelines, plus agent workflows that take over parts of development and testing at Shapescape (60% faster production, 40% fewer post-release bugs)
 - 🔒 **Security & performance analysis** - periodic security assessments of internal infrastructure, automated performance tests on low-end hardware, AI-driven triage of the findings
 - 🏠 **Self-hosted agent playground** - multi-node stack on Hetzner (CapRover, n8n, TimescaleDB, Tailscale) where I prototype agent services
-- 📚 [**UnStudy**](https://github.com/Fabrimat/UnStudy) - AI-powered study platform, TypeScript / NestJS
 
 ## 🛠️ Open source
 
